@@ -1,0 +1,10 @@
+C:\Users\Testing\source\repos\ClockTock\ClockTock\bin\Debug\ClockTock.exe.config
+C:\Users\Testing\source\repos\ClockTock\ClockTock\bin\Debug\ClockTock.exe
+C:\Users\Testing\source\repos\ClockTock\ClockTock\bin\Debug\ClockTock.pdb
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.csprojAssemblyReference.cache
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.Form1.resources
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.Properties.Resources.resources
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.csproj.GenerateResource.cache
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.exe
+C:\Users\Testing\source\repos\ClockTock\ClockTock\obj\Debug\ClockTock.pdb
